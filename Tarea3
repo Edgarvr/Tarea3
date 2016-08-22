@@ -1,0 +1,8 @@
+1-Que es bootstrap?
+Es una herramienta para crear interfaces de usuario y totalmente adaptables a todo tipo de dispositivos y pantallas. Además, ofrece las herramientas necesarias para crear cualquier tipo de sitio web utilizando los estilos y elementos de sus librerías.
+2-Que es OOCSS?
+Es la forma de escribir nuestro CSS para tener como producto un código escalable y reutilizable. En pocas palabras el objetivo es optimizar el código para reducirlo y poder agregar mas código de una forma rápida.
+3-Que es Component CSS?
+Es una arquitectura que simplifica la experiencia de creación de CSS para aplicaciones web.
+4-Que son preprocesadores CSS?
+Es una herramienta que nos permite escribir pseudo-código CSS que luego será convertido a CSS real, se conforma de variables, condiciones, bucles o funciones. El objetivo de estos preprocesadores es tener un código más sencillo de mantener y editar.
